@@ -61,7 +61,7 @@ The project consists of the following key files:
 Here are some screenshots of the user interface:
 
 - **SignUp1 Screen**:
-  ![Login Screen]([path_to_login_screen_image](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png))
+  ![Login Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png)
 
 - **SignUp2 Screen**:
   ![SignUp2 Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp2.png)
