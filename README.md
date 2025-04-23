@@ -71,9 +71,17 @@ The project consists of the following key files:
 - **New User Registration**
 
 ## 🖥️ Screenshots
-| Signup | Login | Transactions |
-|--------|-------|--------------|
-| ![SignUp1]([images/SignUp1.png](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png)) ![SignUp2 Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp2.png) !SignUp3 Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp3.png) | ![Login](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png) | ![Deposit](https://github.com/EE4coder/Bank-Management-System-/blob/main/Deposite%20Screen.png) ![Mini Statement Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/Mini%20Statement%20Screen.png) 
+- | **Signup** |
+ |----------|
+ ![**SignUp1 Screen**](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png) ![**SignUp2 Screen**](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp2.png) ![**SignUp3 Screen**](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp3.png) 
+
+- | **Login** |
+ |---------|
+ ![**Login**](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png) 
+
+- | **Transactions** |
+ |----------------|
+ ![**Deposit**](https://github.com/EE4coder/Bank-Management-System-/blob/main/Deposite%20Screen.png)  ![**Mini Statement Screen**](https://github.com/EE4coder/Bank-Management-System-/blob/main/Mini%20Statement%20Screen.png) 
 
 ## 🤝Acknowledgements
 
