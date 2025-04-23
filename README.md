@@ -1,4 +1,4 @@
-# Bank Management System
+# 🏦 Bank Management System
 
 ## Overview
 
@@ -22,20 +22,25 @@ The system is implemented using **Java** for the application logic, with a **MyS
 
 7. **Mini Statement**: Users can view a mini statement that lists recent transactions.
 
-## Technologies Used
+## 🛠️ Tech Stack
+- **Frontend**:Java, Swing
+  - **Java**: Main programming language for building the GUI and application logic.
+  - **Swing**: Java library used to create graphical user interfaces.
+- **Backend**: JDBC
+  - **JDBC (Java Database Connectivity)**: For connecting the Java application to the MySQL 
+                                           database.
+- **Database**: MySQL
+  - **MySQL**: Used for storing user and transaction data.
 
-- **Java**: Main programming language for building the GUI and application logic.
-- **MySQL**: Used for storing user and transaction data.
-- **JDBC (Java Database Connectivity)**: For connecting the Java application to the MySQL database.
-- **Swing**: Java library used to create graphical user interfaces.
+## ⚡ Quick Start
+  **Prerequisites**
 
-## Prerequisites
-
-Before running the project, make sure you have the following installed:
+Before running the project, make sure we have the following installed:
 
 - **Java Development Kit (JDK)** version 8 or higher.
 - **MySQL** database server.
 - **MySQL Workbench** (optional, for managing the database).
+    - [mysql-connector-java](https://dev.mysql.com/downloads/connector/j/)
 - JDBC Driver for MySQL (typically `mysql-connector-java`).
 
 ### File Structure:
@@ -55,30 +60,22 @@ The project consists of the following key files:
 
 - **icon/**: Contains any icons used in the application (e.g., ATM images).
 
+## 🌟 Features
+- **User Authentication** (Card Number + PIN)
+- **Transactions**:
+  - 💵 Deposit/Withdrawal (₹10,000 limit)
+  - 🚀 Fast Cash (₹100/500/1000)
+- **Account Management**:
+  - 📊 Balance Inquiry
+  - 📜 Mini Statements
+- **New User Registration**
 
-### Screenshots
+## 🖥️ Screenshots
+| Signup | Login | Transactions |
+|--------|-------|--------------|
+| ![SignUp1]([images/SignUp1.png](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png)) ![SignUp2 Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp2.png) !SignUp3 Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp3.png) | ![Login](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png) | ![Deposit](https://github.com/EE4coder/Bank-Management-System-/blob/main/Deposite%20Screen.png) ![Mini Statement Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/Mini%20Statement%20Screen.png) 
 
-Here are some screenshots of the user interface:
-
-- **SignUp1 Screen**:
-  ![Login Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png)
-
-- **SignUp2 Screen**:
-  ![SignUp2 Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp2.png)
-
-- **SignUp3 Screen**:
-  !SignUp3 Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp3.png)
-
-- **Login Screen**:
-  ![Login Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/Login%20Screen.png)
-
-- **Deposit Screen**:
-  ![Deposit Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/Deposite%20Screen.png)
-
-- **Withdrawal Screen**:
-  ![Mini Statement Screen](https://github.com/EE4coder/Bank-Management-System-/blob/main/Mini%20Statement%20Screen.png)  
-
-## Acknowledgements
+## 🤝Acknowledgements
 
 Special thanks to the open-source community for the tools and libraries used in this project. The MySQL documentation helped in understanding database management and query structure.
 
