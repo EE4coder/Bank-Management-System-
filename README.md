@@ -77,7 +77,7 @@ The project consists of the following key files:
 
 - | **Login** |
  |---------|
- ![**Login**](https://github.com/EE4coder/Bank-Management-System-/blob/main/SignUp1.png) 
+ ![**Login**](https://github.com/EE4coder/Bank-Management-System-/blob/main/Login%20Screen.png) 
 
 - | **Transactions** |
  |----------------|
